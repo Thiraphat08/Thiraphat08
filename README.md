@@ -2,7 +2,7 @@
 
 <!-- Typing animation banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Your+Name+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Theera+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </a>
 
 <!-- Social badges -->
@@ -24,9 +24,11 @@
 
 ### 🚀 About Me
 
+- 🎓 กำลังศึกษา: **วิศวกรรมคอมพิวเตอร์**
 - 🔭 กำลังทำโปรเจกต์: **ชื่อโปรเจกต์ของคุณ**
 - 🌱 กำลังเรียนรู้: **เทคโนโลยีที่กำลังศึกษา**
 - 💬 ถามผมได้เรื่อง: **สิ่งที่คุณถนัด**
+- ⚽ นอกเวลาทำงาน: ชอบเล่น**ฟุตบอล**และ**สนุ๊กเกอร์**
 - ⚡ Fun fact: **ข้อมูลสนุกๆ เกี่ยวกับตัวคุณ**
 
 ---
